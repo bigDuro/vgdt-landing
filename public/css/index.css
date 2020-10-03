@@ -1,0 +1,31 @@
+html,body {
+  background-color: #009be5;
+  height: 100%;
+  width: 100%;
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+  color: #333;
+}
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.content {
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.content img{
+  vertical-align: middle;
+}
+
+.footer {
+  text-align: center;
+  padding: 15px;
+}
